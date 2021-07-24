@@ -1,7 +1,6 @@
 #Aluno: Rafael Lopes Moraes
 #Matrícula: 202017740028
 d=5
-xx=10
 
 
 class Contatos():
